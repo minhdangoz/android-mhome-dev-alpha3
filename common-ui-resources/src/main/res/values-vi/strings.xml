@@ -1,0 +1,120 @@
+<!--
+  ~ Copyright 2019 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+    <string name="popup_sort_super">Supersort</string>
+    <string name="popup_sort_last_watched">Last watched</string>
+    <string name="popup_sort_date_followed">Date followed</string>
+    <string name="popup_sort_alpha">A-Z</string>
+
+    <string name="empty_prompt">Y u no do some thing?</string>
+    <string name="empty_emoji">😏</string>
+    <string name="header_more">Thêm</string>
+    <string name="login">Đăng nhập</string>
+    <string name="refresh_credentials">Refresh credentials</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="account_title">Tài khoản</string>
+    <string name="settings_title">Cài đặt</string>
+    <string name="settings_theme_title">Theme</string>
+    <string name="settings_data_saver_title">Data saver</string>
+    <string name="settings_data_saver_summary_on">Fetch data less often and display lower quality images</string>
+    <string name="settings_data_saver_summary_system">Automatically enabled due to system setting</string>
+    <string name="settings_about_category_title">Thông tin</string>
+    <string name="network_title">Mạng</string>
+    <string name="cd_clear_text">Clear text</string>
+    <string name="cd_refresh">Làm mới</string>
+    <string name="cd_sort_list">Sort list</string>
+    <string name="cd_delete">Xóa</string>
+    <string name="cd_user_profile">Thông tin tài khoản</string>
+    <string name="cd_profile_pic">Profile picture</string>
+    <string name="cd_navigate_up">Navigate up</string>
+    <string name="cd_open_overflow">Open more</string>
+    <string name="cd_close">Close</string>
+    <string name="cd_poster_image">Poster image</string>
+    <string name="language_english">English</string>
+    <string name="language_vietnamese">Vietnamese</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot_password_ask">Quên mật khẩu?</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="log_in">Đăng nhập</string>
+    <string name="do_not_have_an_account">Chưa có tài khoản?</string>
+    <string name="already_have_an_account">Đã có tài khoản?</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="sign_out">Đăng xuất</string>
+    <string name="no_internet">Không có kết nối mạng</string>
+    <string name="phone_number_invalid">Vui lòng nhập chính xác số điện thoại!</string>
+    <string name="password_invalid">Mật khẩu phải có 6 đến 20 ký tự!</string>
+    <string name="get_otp">GỬI OTP</string>
+    <string name="otp_verify">Xác nhận OTP</string>
+    <string name="title_forgot_password">Quên mật khẩu</string>
+    <string name="verify">Xác nhận</string>
+    <string name="server_error">Oops, có lỗi kết nối với server, vui lòng thử lại sau</string>
+    <string name="dialog_message_privacy_policy">Chúng tôi rất chú ý đến công tác bảo mật thông tin cá nhân. Để trình bày đầy đủ cách chúng tôi thu thập và sử dụng thông tin cá nhân của bạn, chúng đã sửa đổi Điều khoản sử dụng một cách chi tiết theo pháp luật và quy định mới nhất. Bằng cách nhấp vào Tôi đồng ý, bạn đồng ý rằng bạn đã đọc, hiểu và chấp nhận tất cả nội dung của Điều khoản sử dụng sửa đổi. Hãy dành thời gian để đọc Điều khoản sử dụng. Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi bất cứ lúc nào.</string>
+    <string name="dialog_privacy_policy">Chính sách bảo mật</string>
+    <string name="dialog_decline">Từ chối</string>
+    <string name="dialog_accept">Đồng ý</string>
+    <string name="dialog_terms">Điều khoản</string>
+
+    <string name="register_term">Tôi đồng ý với</string>
+    <string name="register_term_content"><u>Điều khoản dịch vụ</u></string>
+
+    <string name="otp_hint">Nhập OTP đã được gửi tới số điện thoại</string>
+    <string name="otp_resend">Gửi lại</string>
+    <string name="otp_not_received">Không nhận được OTP?</string>
+    <string name="otp_not_correct">OTP không chính xác</string>
+    <string name="otp_text">OTP</string>
+
+    <string name="register_not_check_terms">Vui lòng đồng ý với điều khoản dịch vụ!</string>
+
+    <string name="dialog_back_to_home">Quay lại</string>
+    <string name="dialog_view_details"><u>Xem chi tiết</u></string>
+    <string name="dialog_device_offline">Thiết bị đang ngoại tuyến</string>
+    <string name="offline_help_tip">
+        "1. Vui lòng kiểm tra xem thiết bị có bị tắt hay bị rút phích cắm không.
+2. Nếu nguồn điện bình thường, vui lòng kiểm tra đèn chỉ báo.
+3. Đặt thiết bị ở gần bộ định tuyến nhất có thể và tránh xa các vật cản như tường.
+4. Nếu các giải pháp trên không có hiệu quả, Báo cáo sự cố."</string>
+
+    <string name="screen_home">Thiết bị</string>
+    <string name="screen_notifications">Thông báo</string>
+    <string name="screen_profile">Tài khoản</string>
+    <string name="screen_store">Cửa hàng</string>
+
+    <string name="app_info">Thông tin</string>
+    <string name="title_home">Thiết bị</string>
+    <string name="title_store">Cửa hàng</string>
+    <string name="title_notifications">Thông báo</string>
+    <string name="title_profile">Tài khoản</string>
+
+    <string name="title_playback">Phát lại</string>
+    <string name="title_album">Hình ảnh</string>
+    <string name="title_devices">Thiết bị</string>
+    <string name="title_cameras">Máy ảnh</string>
+    <string name="empty_camera">Danh sách máy ảnh trống.</string>
+    <string name="empty_album">Thư viện trống.</string>
+    <string name="device_is_offline">Ngoại tuyến</string>
+
+    <string name="monitor">Giám sát</string>
+    <string name="playback">Phát lại</string>
+    <string name="album">Hình ảnh</string>
+    <string name="settings">Cài đặt</string>
+    <string name="library">Thư viện</string>
+
+    <string name="add_device">Thêm thiết bị</string>
+    <string name="scan">Quét mã vạch</string>
+</resources>

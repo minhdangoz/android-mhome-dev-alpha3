@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#0061AF</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorContainer">#0061AF</color>
+    <color name="colorPrimaryContainer">#0479D8</color>
+    <color name="colorPrimaryLight">#0479D8</color>
+    <color name="colorPrimaryDark">#0061AF</color>
+    <color name="textColorPrimary">#4F4F4F</color>
+    <color name="textColorHint">#CBCBCB</color>
+    <color name="textColorHighlight">#0061AF</color>
+    <color name="textColorLink">#0061AF</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="system_ui_scrim_light">#B3FFFFFF</color> <!-- 70% white -->
+    <color name="system_ui_scrim_dark">#30000000</color> <!-- 19% black -->
+
+    <!-- Light -->
+    <color name="blue500">#0540F2</color>
+    <color name="blue800">#001CCF</color>
+    <color name="yellow700">#F3B711</color>
+    <!-- Dark -->
+    <color name="blue300">#6F7EF9</color>
+    <color name="blue400">#4860F7</color>
+    <color name="yellow400">#F6E547</color>
+</resources>

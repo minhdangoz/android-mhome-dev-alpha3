@@ -1,0 +1,40 @@
+
+plugins {
+    id 'com.gradle.enterprise' version '3.10.1'
+}
+
+gradleEnterprise {
+    buildScan {
+        termsOfServiceUrl = 'https://gradle.com/terms-of-service'
+        termsOfServiceAgree = 'yes'
+    }
+}
+
+include ':app'
+include ':base'
+include ':base-android'
+include ':common-ui-view'
+include ':common-ui-resources'
+include ':common-ui-compose'
+include ':common-imageloading'
+include ':ui-settings'
+include ':ui-login'
+include ':ui-register'
+include ':ui-forgotpassword'
+include ':ui-home'
+include ':ui-cameradetails'
+include ':ui-playback'
+include ':ui-player'
+include ':ui-album'
+include ':ui-add-device'
+include ':ui-qrscan'
+include ':domain'
+include ':data'
+include ':data-android'
+include ':tasks'
+include ':webrtc-android-framework'
+
+// Enable Gradle's version catalog support
+// https://docs.gradle.org/current/userguide/platforms.html
+enableFeaturePreview("VERSION_CATALOGS")
+rootProject.name = "mHome"
